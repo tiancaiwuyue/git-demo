@@ -5,7 +5,6 @@ namespace Test
 	{
 		static void Main(string[] args)
 		{
-<<<<<<< HEAD
 			//I have been back I don't want to be merged
 			//I am in Dev Branch I don't want to be merged
 			//I have been back
