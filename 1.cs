@@ -5,9 +5,10 @@ namespace Test
 	{
 		static void Main(string[] args)
 		{
-			//I have been back
+			//This is a solid version
 			//I am in Dev Branch
 			//I am in independent Dev
+			//Have fixed bugs
 			int a = 0;
 			a=1;
 			Console.Write("Hi");
