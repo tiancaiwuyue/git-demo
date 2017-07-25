@@ -5,9 +5,10 @@ namespace Test
 	{
 		static void Main(string[] args)
 		{
+			//I have been back
 			int a = 0;
 			a=1;
-			Console.Write(a);
+			Console.Write("Hi");
 			Console.Readkey();
 		}
 	}
