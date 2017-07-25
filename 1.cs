@@ -8,6 +8,7 @@ namespace Test
 			int a = 0;
 			a=1;
 			Console.Write("Hi");
+			Console.Readkey();
 		}
 	}
 }
